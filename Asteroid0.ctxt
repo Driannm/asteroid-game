@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Asteroid0
+comment1.params=speed
+comment1.target=Asteroid0(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkCollision()
+numComments=4
